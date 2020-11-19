@@ -1,0 +1,26 @@
+.tweet__select {
+    background-color: rgb(130, 130, 175);
+    margin: 5px;
+}
+
+.tweet__content {
+    background-color: rgb(186, 158, 238);
+    border-style: solid;
+    border-width: 1px;
+    margin: 5px;
+}
+
+.tweet__options {
+    display: flex;
+    padding: 10px;
+    flex: 1;
+    cursor: pointer;
+}
+
+.tweet__options:hover {
+    background-color: honeydew;
+}
+
+.date__posted {
+    float: right;
+}
